@@ -1,2 +1,2 @@
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=donpain&amp;show_icons=true&amp;theme=cobalt&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=donpain&amp;show_icons=true&amp;theme=synthwave&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
