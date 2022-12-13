@@ -1,2 +1,2 @@
-
-<a href="https://stardev.io/developers/donPain"><img alt="Check out donPain's profile on stardev.io" src="https://stardev.io/developers/donPain/badge/languages/locality.svg" /></a>
+<iframe src="[/default.asp](https://sgp-obc-dev.saas-solinftec.com/general/solinftec/equip-config-mag)" width="100%" height="300" style="border:1px solid black;">
+</iframe>
