@@ -37,7 +37,7 @@ Backend developer focused on **distributed systems**, **stream processing**, and
 
 ---
 
-![donPain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=donPain&show_icons=true&theme=dark)
+![donPain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=donPain&show_icons=true&theme=dark&count_private=true)
 ![donPain's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donPain&layout=compact&theme=dark)
 
 ## Contact
