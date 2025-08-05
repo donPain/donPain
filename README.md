@@ -1,6 +1,6 @@
 [Java do zero ao mil em 2 dias!](https://static.poder360.com.br/2021/10/bolsonaro-celualr-cama--848x477.png)
 
- Eduardo Paino
+ Eduardo Donzeli Paino
 
 Backend developer focused on **distributed systems**, **stream processing**, and **real-time data engineering**. I build scalable and resilient solutions using technologies like **Java**, **Apache Kafka**, **Apache Flink**, and **container-based infrastructure**.
 
@@ -8,7 +8,7 @@ Backend developer focused on **distributed systems**, **stream processing**, and
 
 ## Areas of Expertise
 
-- **Languages**: Java (17+), Kotlin  
+- **Languages**: Java (8+), Kotlin  
 - **Frameworks**: Spring Boot, Spring WebFlux  
 - **Messaging**: Apache Kafka (Streams, Connect), Avro, Schema Registry  
 - **Data Processing**: Apache Flink, Apache Pinot  
