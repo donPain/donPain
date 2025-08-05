@@ -1,11 +1,4 @@
- $$$$$$\   $$$$$$\  $$\   $$\       $$$$$$$$\  $$$$$$\  $$$$$$$\   $$$$$$\  
-$$  __$$\ $$  __$$\ $$ |  $$ |      $$  _____|$$  __$$\ $$  __$$\ $$  __$$\ 
-$$ /  \__|$$ /  $$ |$$ |  $$ |      $$ |      $$ /  $$ |$$ |  $$ |$$ /  $$ |
-\$$$$$$\  $$ |  $$ |$$ |  $$ |      $$$$$\    $$ |  $$ |$$ |  $$ |$$$$$$$$ |
- \____$$\ $$ |  $$ |$$ |  $$ |      $$  __|   $$ |  $$ |$$ |  $$ |$$  __$$ |
-$$\   $$ |$$ |  $$ |$$ |  $$ |      $$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |
-\$$$$$$  | $$$$$$  |\$$$$$$  |      $$ |       $$$$$$  |$$$$$$$  |$$ |  $$ |
- \______/  \______/  \______/       \__|       \______/ \_______/ \__|  \__|
+
  Eduardo Paino
 
 Backend developer focused on **distributed systems**, **stream processing**, and **real-time data engineering**. I build scalable and resilient solutions using technologies like **Java**, **Apache Kafka**, **Apache Flink**, and **container-based infrastructure**.
